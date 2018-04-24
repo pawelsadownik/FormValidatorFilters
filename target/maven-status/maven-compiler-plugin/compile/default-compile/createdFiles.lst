@@ -1,0 +1,9 @@
+domain/LoanApplication.class
+domain/LoanParameters.class
+domain/Address.class
+personFilter.class
+ServServlet.class
+services/LoanService.class
+domain/Person.class
+loanParametersFilter.class
+addressFilter.class
